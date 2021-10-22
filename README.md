@@ -21,7 +21,7 @@
 [![YouTube](https://img.shields.io/badge/ReisDev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/reisdev)
 [![Twitch](https://img.shields.io/badge/ReisDev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/reisdev)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/@reisdev)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https:/blog.reisdev.com.br)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.reisdev.com.br)
 
 ## Social
 
