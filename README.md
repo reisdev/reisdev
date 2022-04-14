@@ -1,4 +1,4 @@
-# Hi, I'm ReisDev! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+# Hi, I'm Matheus! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <a href="https://github.com/reisdev">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula">
@@ -6,6 +6,10 @@
 <a href="https://github.com/reisdev">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula">
 </a>
+
+## Intro
+
+I'm Matheus dos Reis(aka ReisDev). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about eletronics and so on. On early 2022 I got my Computer Science bachelor degree, after 6 years of hard work and long nights of study.
 
 ## Languages, Frameworks and Tools
 
@@ -30,4 +34,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reisdev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dos-reis-de-jesus/)
 
+## Career
 
+This topic describes my career, company by company.
+
+### [No Bugs](https://nobugs.com.br) - from 2016 to 2018
+
+My career started at this junior company, as a Project Manager, and I had to manage a few projects of websites development. One and a half year later, I got elected to be the Project Director, which was my role for a year. I managed many development projects, such as websites, mobile and desktop applications. I had to lead a team of 10 people and coordinate the workflow, collect updates of each of them and, eventually, get in contact with our clients to solve some bigger problem.
