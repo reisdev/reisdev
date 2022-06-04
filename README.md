@@ -1,4 +1,4 @@
-# Hi, I'm Matheus! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+# Hi, I'm Matheus! <a href="https://rahulmahesh.me/"> 👋🏽</h1></a></p>
 
 <a href="https://github.com/reisdev">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula">
