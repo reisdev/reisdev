@@ -1,4 +1,23 @@
-# Hi, I'm Matheus! <a href="https://rahulmahesh.me/"> 👋🏽</h1></a></p>
+# Hi, I'm Matheus! 👋🏽
+
+My name is Matheus dos Reis(a.k.a. ReisDev). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about eletronics and so on. On early 2022 I got my Computer Science bachelor degree, after 6 years of hard work and long nights of study.
+
+### Reach me
+
+[![Instagram](https://img.shields.io/badge/reisdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reisdev)
+[![Twitter](https://img.shields.io/badge/reisdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reisdev)
+[![Telegram](https://img.shields.io/badge/reisdev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reisdev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dos-reis-de-jesus/)
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdrdj@gmail.com)
+
+### Find my content
+
+[![YouTube](https://img.shields.io/badge/ReisDev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/reisdev)
+[![Twitch](https://img.shields.io/badge/ReisDev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/reisdev)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/@reisdev)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.reisdev.com.br)
+
+## GitHub Stats
 
 <a href="https://github.com/reisdev">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula">
@@ -7,37 +26,47 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula">
 </a>
 
-## Intro
+## Experience
 
-I'm Matheus dos Reis(aka ReisDev). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about eletronics and so on. On early 2022 I got my Computer Science bachelor degree, after 6 years of hard work and long nights of study.
+### Languages
 
-## Languages, Frameworks and Tools
+<div>
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+### Mobile
 
-## Technology Content
+<div>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Quasar-20232A?style=for-the-badge&logo=quasar&logoColor=white">
+</div>
 
-[![YouTube](https://img.shields.io/badge/ReisDev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/reisdev)
-[![Twitch](https://img.shields.io/badge/ReisDev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/reisdev)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/@reisdev)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.reisdev.com.br)
+### Frontend
 
-## Social
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</div>
 
-[![Instagram](https://img.shields.io/badge/@reisdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reisdev)
-[![Twitter](https://img.shields.io/badge/@reisdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reisdev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reisdev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dos-reis-de-jesus/)
+### Backend
 
-## Career
+<div>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
+</div>
 
-This topic describes my career, company by company.
+### Tools
 
-### [No Bugs](https://nobugs.com.br) - from 2016 to 2018
-
-My career started at this junior company, as a Project Manager, and I had to manage a few projects of websites development. One and a half year later, I got elected to be the Project Director, which was my role for a year. I managed many development projects, such as websites, mobile and desktop applications. I had to lead a team of 10 people and coordinate the workflow, collect updates of each of them and, eventually, get in contact with our clients to solve some bigger problem.
+<div>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
