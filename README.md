@@ -1,8 +1,13 @@
 # Hi, I'm Matheus! 👋🏽
 
-My name is Matheus dos Reis(a.k.a. ReisDev). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about eletronics and so on. On early 2022 I got my Computer Science bachelor degree, after 6 years of hard work and long nights of study.
+<img height=200 align="left" src="https://user-images.githubusercontent.com/23380987/181012053-5f46c730-3c73-4776-834d-25dab17a79fc.png" >
 
-### Reach me
+<br>
+<p>My name is Matheus dos Reis(AKA <i>ReisDev</i>). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about technology and so. On early 2022 I got my Computer Science bachelor degree. Now, I'm seeking to grow as an iOS Developer.</p>
+<p>As my contributions to the tech community I create content about development and technology over the DEV.to, YouTube, Twitter, LinkedIn, Twitch and my personal blog. You can find all of those below. One of my dreams is to see technology being easily accessible for anyone, anywhere, anytime.</p>
+<br>
+
+### Reach me out
 
 [![Instagram](https://img.shields.io/badge/reisdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reisdev)
 [![Twitter](https://img.shields.io/badge/reisdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reisdev)
@@ -35,7 +40,7 @@ My name is Matheus dos Reis(a.k.a. ReisDev). Passionate about technology since I
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 ### Mobile
@@ -44,6 +49,7 @@ My name is Matheus dos Reis(a.k.a. ReisDev). Passionate about technology since I
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Quasar-20232A?style=for-the-badge&logo=quasar&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
 ### Frontend
