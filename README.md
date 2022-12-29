@@ -13,7 +13,7 @@
 [![Twitter](https://img.shields.io/badge/reisdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reisdev)
 [![Telegram](https://img.shields.io/badge/reisdev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reisdev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dos-reis-de-jesus/)
-[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdrdj@gmail.com)
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@reisdev.com.br)
 
 ### Find my content
 
