@@ -25,10 +25,10 @@
 ## GitHub Stats
 
 <a href="https://github.com/reisdev">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula&count_private=true">
 </a>
 <a href="https://github.com/reisdev">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula&count_private=true">
 </a>
 
 ## Experience
