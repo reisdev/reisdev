@@ -1,10 +1,7 @@
 # Hi, I'm Matheus! 👋🏽
 
-<img height=200 align="left" src="https://user-images.githubusercontent.com/23380987/181012053-5f46c730-3c73-4776-834d-25dab17a79fc.png" >
-
 <br>
-<p>My name is Matheus dos Reis(AKA <i>ReisDev</i>). Passionate about technology since I was born, I grew up taking every oportunitty I had to learn more about technology and so. On early 2022 I got my Computer Science bachelor degree. Now, I'm seeking to grow as an iOS Developer.</p>
-<p>As my contributions to the tech community I create content about development and technology over the DEV.to, YouTube, Twitter, LinkedIn, Twitch and my personal blog. You can find all of those below. One of my dreams is to see technology being easily accessible for anyone, anywhere, anytime.</p>
+Sotware Engineer with a diverse experience, currently focusing on Apple devices. More than just creating apps, I love menthoring people and helping others to dive into the amazing world of technology and development. 
 <br>
 
 ### Reach me out
@@ -25,10 +22,30 @@
 ## GitHub Stats
 
 <a href="https://github.com/reisdev">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula&count_private=true">
+  <picture height=180em>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=codeSTACKr&count_private=true"
+      media="(prefers-color-scheme: dark) (prefers-color-scheme: no-preference) (max-height: 180em)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=darcula&count_private=true"
+      media="(prefers-color-scheme: light) (max-height: 180em)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true" height=180em/>
+  </picture>
 </a>
 <a href="https://github.com/reisdev">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula&count_private=true">
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=codeSTACKr&count_private=true"
+      media="(prefers-color-scheme: dark) (prefers-color-scheme: no-preference) (max-height: 180em)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=darcula&count_private=true"
+      media="(prefers-color-scheme: light) (max-height: 180em)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&show_icons=true" height=180em />
+  </picture>
 </a>
 
 ## Experience
