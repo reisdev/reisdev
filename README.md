@@ -37,14 +37,14 @@ Sotware Engineer with a diverse experience, currently focusing on Apple devices.
 <a href="https://github.com/reisdev">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=codeSTACKr&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=codeSTACKr&count_private=true&hide=c%2B%2B"
       media="(prefers-color-scheme: dark) (prefers-color-scheme: no-preference) (max-height: 180em)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=darcula&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=darcula&count_private=true&hide=c%2B%2B"
       media="(prefers-color-scheme: light) (max-height: 180em)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&show_icons=true" height=180em />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&show_icons=true&hide=c%2B%2B" height=180em />
   </picture>
 </a>
 
